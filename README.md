@@ -1,4 +1,4 @@
-# PixelCode QR
+# MoonPache QR generator
 
 Generador profesional de códigos QR **100% estáticos**, instalable como PWA y funcional sin conexión.
 
