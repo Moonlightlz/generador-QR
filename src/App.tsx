@@ -276,8 +276,8 @@ export default function App() {
 
         <header className="flex flex-col sm:flex-row justify-between sm:items-end border-b-2 border-neutral-900 pb-5 shrink-0 z-10 relative">
           <div>
-            <h1 className="text-4xl md:text-5xl font-black tracking-tighter uppercase">PixelCode <span className="text-blue-600">QR</span></h1>
-            <p className="text-neutral-500 font-bold mt-1 tracking-tight">Generador profesional de códigos QR estáticos</p>
+            <h1 className="text-4xl md:text-5xl font-black tracking-tighter uppercase">Moonpache <span className="text-blue-600">QR</span></h1>
+            <p className="text-neutral-500 font-bold mt-1 tracking-tight">Moonpache QR generator</p>
           </div>
           <div className="flex flex-col sm:flex-row gap-4 mt-6 sm:mt-0">
             {installPrompt && (
@@ -689,7 +689,7 @@ export default function App() {
         <footer className="mt-2 md:mt-4 border-t-2 border-neutral-900 pt-5 flex flex-col sm:flex-row justify-between items-center gap-2 text-[10px] font-black text-neutral-400 uppercase tracking-widest shrink-0 z-10 relative">
           <span className="flex items-center gap-2"><div className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></div>Funciona sin conexión</span>
           <span>Códigos QR estáticos · Sin rastreo</span>
-          <span>© 2026 PixelCode QR</span>
+          <span>© 2026 Moonpache QR</span>
         </footer>
       </div>
 

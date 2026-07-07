@@ -12,8 +12,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icon.svg', 'apple-touch-icon-180x180.png'],
       manifest: {
-        name: 'PixelCode QR — Generador de Códigos QR Estáticos',
-        short_name: 'PixelCode QR',
+        name: 'Moonpache QR generator',
+        short_name: 'Moonpache QR',
         description:
           'Generador profesional de códigos QR estáticos: URL, WiFi, vCard, email y más. El contenido queda grabado para siempre en el código. Funciona sin conexión.',
         lang: 'es',
