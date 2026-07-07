@@ -1,0 +1,6 @@
+{
+  "name": "PixelCode QR — Generador de Códigos QR Estáticos",
+  "description": "PWA instalable para generar códigos QR 100% estáticos (URL, WiFi, vCard, email, teléfono, WhatsApp) con logo, estilos de módulos, degradados y exportación PNG/SVG/JPEG. El contenido queda grabado para siempre en el código; funciona sin conexión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

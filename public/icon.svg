@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#171717"/>
+  <!-- QR finder patterns (safe zone: content within center 66%) -->
+  <g fill="#ffffff">
+    <path d="M136 136h96v96h-96z M160 160v48h48v-48z" fill-rule="evenodd"/>
+    <rect x="176" y="176" width="16" height="16"/>
+    <path d="M280 136h96v96h-96z M304 160v48h48v-48z" fill-rule="evenodd"/>
+    <rect x="320" y="176" width="16" height="16"/>
+    <path d="M136 280h96v96h-96z M160 304v48h48v-48z" fill-rule="evenodd"/>
+    <rect x="176" y="320" width="16" height="16"/>
+    <rect x="280" y="280" width="24" height="24"/>
+    <rect x="352" y="280" width="24" height="24"/>
+    <rect x="280" y="352" width="24" height="24"/>
+  </g>
+  <rect x="316" y="316" width="24" height="24" fill="#2563eb"/>
+  <rect x="352" y="352" width="24" height="24" fill="#2563eb"/>
+</svg>
